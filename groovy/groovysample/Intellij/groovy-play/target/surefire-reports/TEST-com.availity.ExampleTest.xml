@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" skipped="0" tests="1" time="0.189" failures="0" name="com.availity.ExampleTest">
+  <properties>
+    <property value="Apple Inc." name="java.vendor"/>
+    <property value="/Users/swilliams/.m2/repository" name="localRepository"/>
+    <property value="SUN_STANDARD" name="sun.java.launcher"/>
+    <property value="HotSpot Client Compiler" name="sun.management.compiler"/>
+    <property value="Mac OS X" name="os.name"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/sunrsasign.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Classes/charsets.jar" name="sun.boot.class.path"/>
+    <property value="/var/folders/mf/mf5OUXvaGkOkGNn3MoHMRE+++TI/-Tmp-/" name="env.TMPDIR"/>
+    <property value="/Users/swilliams/workspaces/Groovy/Intellij/groovy-play" name="env.PWD"/>
+    <property value="en_US.UTF-8" name="env.LANG"/>
+    <property value="Sun Microsystems Inc." name="java.vm.specification.vendor"/>
+    <property value="1.5.0_16-b06-284" name="java.runtime.version"/>
+    <property value="/tmp/launch-hJT9P2/Render" name="env.Apple_PubSub_Socket_Render"/>
+    <property value="/tmp/launch-IrWn0O/:0" name="env.DISPLAY"/>
+    <property value="swilliams" name="user.name"/>
+    <property value="swilliams" name="env.USER"/>
+    <property value="/bin/bash" name="env.SHELL"/>
+    <property value="0x1F5:0:0" name="env.__CF_USER_TEXT_ENCODING"/>
+    <property value="true" name="awt.nativeDoubleBuffering"/>
+    <property value="/opt/subversion/bin:/System/Library/Frameworks/JavaVM.framework/Versions/1.5/Home/bin:$/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Users/swilliams/bin:/opt/dev/tools/maven-2.0.9/bin:/usr/local/bin:/opt/dev/tools/apache-ant-1.7.1/bin:/usr/local/mysql/bin:/opt/dev/tools/groovy-1.5.7/bin:FLEX_HOME/bin:/Applications/AccuRev/bin" name="env.PATH"/>
+    <property value="en" name="user.language"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Libraries" name="sun.boot.library.path"/>
+    <property value="/usr/local/mysql" name="env.MYSQL_HOME"/>
+    <property value="/opt/dev/tools/maven-2.0.9/bin/m2.conf" name="classworlds.conf"/>
+    <property value="1.5.0_16" name="java.version"/>
+    <property value="America/Chicago" name="user.timezone"/>
+    <property value="32" name="sun.arch.data.model"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="http.nonProxyHosts"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/endorsed" name="java.endorsed.dirs"/>
+    <property value="/opt/dev/tools/flex3sdk_b3_121207-1" name="env.FLEX_HOME"/>
+    <property value="/opt/dev/tools" name="env.TOOLS_HOME"/>
+    <property value="" name="sun.cpu.isalist"/>
+    <property value="MacRoman" name="sun.jnu.encoding"/>
+    <property value="sun.io" name="file.encoding.pkg"/>
+    <property value="1" name="env.SHLVL"/>
+    <property value="/" name="file.separator"/>
+    <property value="Java Platform API Specification" name="java.specification.name"/>
+    <property value="/opt/dev/tools/groovy-1.5.7" name="env.GROOVY_HOME"/>
+    <property value="49.0" name="java.class.version"/>
+    <property value="US" name="user.country"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home" name="java.home"/>
+    <property value="mixed mode, sharing" name="java.vm.info"/>
+    <property value="/opt/dev/tools/apache-tomcat-6.0.18" name="env.CATALINA_HOME"/>
+    <property value="swilliams" name="env.LOGNAME"/>
+    <property value="10.5.6" name="os.version"/>
+    <property value="240" name="env.TERM_PROGRAM_VERSION"/>
+    <property value="1" name="env.CLICOLOR"/>
+    <property value=":" name="path.separator"/>
+    <property value="1.5.0_16-133" name="java.vm.version"/>
+    <property value="-Xms32m -Xmx512" name="env.MEM_ARGS"/>
+    <property value="/System/Library/Frameworks/JavaVM.framework/Versions/1.5/Home" name="env.JAVA_HOME"/>
+    <property value="apple.awt.CPrinterJob" name="java.awt.printerjob"/>
+    <property value="xterm-color" name="env.TERM"/>
+    <property value="UnicodeLittle" name="sun.io.unicode.encoding"/>
+    <property value="apple.awt.CToolkit" name="awt.toolkit"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="socksNonProxyHosts"/>
+    <property value="local|*.local|169.254/16|*.169.254/16" name="ftp.nonProxyHosts"/>
+    <property value="/usr/share/man:/usr/local/share/man:/usr/X11/man" name="env.MANPATH"/>
+    <property value="dxfxcxdxbxegedabagacad" name="env.LSCOLORS"/>
+    <property value="/Users/swilliams" name="user.home"/>
+    <property value="Sun Microsystems Inc." name="java.specification.vendor"/>
+    <property value="" name="env.CLASSPATH"/>
+    <property value="Apple_Terminal" name="env.TERM_PROGRAM"/>
+    <property value="/opt/dev/tools/maven-2.0.9" name="env.M2_HOME"/>
+    <property value=".:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" name="java.library.path"/>
+    <property value="http://www.apple.com/" name="java.vendor.url"/>
+    <property value="/usr/bin/vim --nofork" name="env.SVN_EDITOR"/>
+    <property value="Apple Inc." name="java.vm.vendor"/>
+    <property value="false" name="gopherProxySet"/>
+    <property value="/opt/dev/tools/maven-2.0.9" name="maven.home"/>
+    <property value="Java(TM) 2 Runtime Environment, Standard Edition" name="java.runtime.name"/>
+    <property value="/opt/dev/tools/maven-2.0.9/boot/classworlds-1.1.jar" name="java.class.path"/>
+    <property value="-Xmx512m" name="env.ANT_OPTS"/>
+    <property value="Java Virtual Machine Specification" name="java.vm.specification.name"/>
+    <property value="1.0" name="java.vm.specification.version"/>
+    <property value="unknown" name="sun.os.patch.level"/>
+    <property value="little" name="sun.cpu.endian"/>
+    <property value="/Users/swilliams" name="env.HOME"/>
+    <property value="/opt/dev/tools/apache-ant-1.7.1" name="env.ANT_HOME"/>
+    <property value="/Users/swilliams/workspaces/Groovy/Intellij/groovy-play/target/test-classes:/Users/swilliams/workspaces/Groovy/Intellij/groovy-play/target/classes:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/runtime/gmaven-runtime-default/1.0-rc-3/gmaven-runtime-default-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/slf4j/slf4j-api/1.5.0/slf4j-api-1.5.0.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/runtime/gmaven-runtime-1.5/1.0-rc-3/gmaven-runtime-1.5-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/feature/gmaven-feature-support/1.0-rc-3/gmaven-feature-support-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/feature/gmaven-feature-api/1.0-rc-3/gmaven-feature-api-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/runtime/gmaven-runtime-support/1.0-rc-3/gmaven-runtime-support-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/runtime/gmaven-runtime-api/1.0-rc-3/gmaven-runtime-api-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/maven/gmaven-common/1.0-rc-3/gmaven-common-1.0-rc-3.jar:/Users/swilliams/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.jar:/Users/swilliams/.m2/repository/com/thoughtworks/qdox/qdox/1.6.3/qdox-1.6.3.jar:/Users/swilliams/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.6/groovy-all-minimal-1.5.6.jar:/Users/swilliams/.m2/repository/org/apache/ant/ant/1.7.1/ant-1.7.1.jar:/Users/swilliams/.m2/repository/org/apache/ant/ant-launcher/1.7.1/ant-launcher-1.7.1.jar:/Users/swilliams/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar:/Users/swilliams/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:" name="surefire.test.class.path"/>
+    <property value="/tmp" name="java.io.tmpdir"/>
+    <property value="http://bugreport.apple.com/" name="java.vendor.url.bug"/>
+    <property value="/opt/subversion" name="env.SVN_HOME"/>
+    <property value="/tmp/launch-BMvZT6/Listeners" name="env.SSH_AUTH_SOCK"/>
+    <property value="unix2003" name="env.COMMAND_MODE"/>
+    <property value="apple.awt.CGraphicsEnvironment" name="java.awt.graphicsenv"/>
+    <property value="i386" name="os.arch"/>
+    <property value="/Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Frameworks/JavaVM.framework/Versions/1.5.0/Home/lib/ext" name="java.ext.dirs"/>
+    <property value="/Applications/AccuRev" name="env.ACCUREV_HOME"/>
+    <property value="/Users/swilliams/workspaces/Groovy/Intellij/groovy-play" name="user.dir"/>
+    <property value="1050.1.5.0_16-284" name="mrj.version"/>
+    <property value="
+" name="line.separator"/>
+    <property value="Java HotSpot(TM) Client VM" name="java.vm.name"/>
+    <property value="/usr/bin/vim" name="env.EDITOR"/>
+    <property value="/Users/swilliams/workspaces/Groovy/Intellij/groovy-play" name="basedir"/>
+    <property value="MacRoman" name="file.encoding"/>
+    <property value="1.5" name="java.specification.version"/>
+    <property value="org.codehaus.classworlds.Launcher" name="env.JAVA_MAIN_CLASS_26995"/>
+  </properties>
+  <testcase classname="com.availity.ExampleTest" time="0.01" name="testShow"/>
+</testsuite>

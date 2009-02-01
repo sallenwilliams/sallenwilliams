@@ -1,0 +1,8 @@
+TODO
+====
+0) add codehaus snapshot repo
+1) Create an xml file
+2) parse it
+3) Create a File
+4) Write it to disk
+5) Discover an img from the classpath and determine it's file type, EX. jpg, bmp
