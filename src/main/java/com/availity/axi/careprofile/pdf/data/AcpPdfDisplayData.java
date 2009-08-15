@@ -4,8 +4,8 @@ package com.availity.axi.careprofile.pdf.data;
  * @author <a mailto:swilliams@availity.com> Scott Williams</a>
  */
 public class AcpPdfDisplayData {
-  private String[] memberAreaDisplayData;
   private String[][] prescriptionsDisplayData;
+  private String[] memberAreaDisplayData;
   private String[][] labDisplayData;
   private String[][] radiologyDisplayData;
   private String[][] providerDisplayData;
@@ -36,6 +36,7 @@ public class AcpPdfDisplayData {
   }
 
   public String[][] getProviderDisplayData() {
+
     return providerDisplayData;
   }
 
@@ -61,7 +62,7 @@ public class AcpPdfDisplayData {
 
   private void initialize(String[] memberAreaDisplayData, String[][] prescriptionsDisplayData, String[][] labDisplayData,
                           String[][] labResultsDisplayData, String[][] radiologyDisplayData, String[][] providerDisplayData,
-                          String[][] diagnosisDisplayData,  String[][] hospitalDisplayData, String[][] immunizationDisplayData) {
+                          String[][] diagnosisDisplayData, String[][] hospitalDisplayData, String[][] immunizationDisplayData) {
     this.memberAreaDisplayData = memberAreaDisplayData;
     this.prescriptionsDisplayData = prescriptionsDisplayData;
     this.labDisplayData = labDisplayData;
