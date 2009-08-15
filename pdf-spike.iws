@@ -4,7 +4,106 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" name="Default" comment="" />
+    <list default="true" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/NewLineBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/MemberAreaBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/dateRangeBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.data.AcpPdfDisplayDataAdapterTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/data/TableMetadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/arrowUpSmall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/expandArrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/NewLineBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.TableBuilderTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.HeaderBuilderTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/PdfTableUtility.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayDataAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/data/TableMetadata.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.DisclaimerBuilderTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/CareProfilePdfBuilderDirector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/CareProfilePdfBuilderDirectorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/arrowDownSmall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/bgHeader2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/tableNavBar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/tableHeadingBG.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.HeaderBuilderTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.MemberAreaBuilderTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.TableBuilderTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pdf-spike-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/arrowDownSmall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.CareProfilePdfBuilderDirectorTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/MemberAreaBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/TableBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pdf-spike-1.0.0-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/DisclaimerBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayDataAdapterTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/NewLineBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/PdfTableUtilityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/layout/HeaderBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.AcpPdfDataLayoutIntegrationTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/bgHeader2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/CareProfilePdfBuilderDirector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.PdfTableUtilityTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.CareProfilePdfBuilderDirectorTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayDataAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.PdfTableUtilityTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/HeaderBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/dateRangeBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/topNav.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.MemberAreaBuilderTest.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pdf-spike.iws" afterPath="$PROJECT_DIR$/pdf-spike.iws" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/headerBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.data.TableMetadataTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/bgHeader3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/prescriptions.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/MemberAreaBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/prescriptions.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pdf-spike.ipr" afterPath="$PROJECT_DIR$/pdf-spike.ipr" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/DisclaimerBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/DisclaimerBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CareProfileLabResults.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.layout.NewLineBuilderTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.NewLineBuilderTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/headerBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/AcpPdfDataLayoutIntegrationTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/printIcon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/TableBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.data.AcpPdfDisplayDataAdapterTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/CareProfile.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/bgHeader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/bgHeader3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/PdfTableUtility.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/expand.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/availity/axi/careprofile/pdf/layout/Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/expandArrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tableHeadingBG.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/HeaderBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/TableBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/availity/axi/careprofile/pdf/data/TableMetadataTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/com.availity.axi.careprofile.pdf.AcpPdfDataLayoutIntegrationTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/pom-transformed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/tableNavBar2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/arrowUpSmall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/bgHeader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.layout.DisclaimerBuilderTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tableNavBar2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/com/availity/axi/careprofile/pdf/layout/Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/collapse.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/leftNav.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/printIcon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/leftNav.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.availity.axi.careprofile.pdf.data.TableMetadataTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tableNavBar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/topNav.gif" afterPath="" />
+    </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="pdf-spike.iws" />
   </component>
@@ -130,7 +229,7 @@
       <file leaf-file-name="AcpPdfDisplayData.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="2" selection-start="300" selection-end="1293" vertical-scroll-proportion="0.20767888">
+            <state line="27" column="2" selection-start="300" selection-end="1293" vertical-scroll-proportion="0.20804195">
               <folding />
             </state>
           </provider>
@@ -142,6 +241,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="GIT_EXECUTABLE" value="/usr/local/git/bin/git" />
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -266,7 +368,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="RunManagerConfig.showSettingsBeforeRunnig" value="false" />
   </component>
@@ -488,17 +590,17 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Test Runs" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29289216" sideWeight="0.66703665" order="0" side_tool="false" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29289216" sideWeight="0.66592675" order="0" side_tool="false" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32833958" sideWeight="0.5" order="1" side_tool="false" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32709113" sideWeight="0.5" order="8" side_tool="false" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3263041" sideWeight="0.5" order="8" side_tool="false" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955604" sideWeight="0.5" order="6" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" />
       <window_info id="Coverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32519424" sideWeight="0.5" order="2" side_tool="false" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32519424" sideWeight="0.5" order="2" side_tool="false" />
       <window_info id="Dilbert" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741398" sideWeight="0.5" order="8" side_tool="false" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47058824" sideWeight="0.5" order="4" side_tool="false" x="-1282" y="534" width="1282" height="479" />
@@ -525,7 +627,7 @@
     <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;# Brief commit desciption here&#10;&#10;# Full commit description here (comment lines starting with '#' will not be included)&#10;&#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
@@ -536,6 +638,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="&#10;# Brief commit desciption here&#10;&#10;# Full commit description here (comment lines starting with '#' will not be included)&#10;&#10;" />
   </component>
   <component name="VssConfiguration">
     <option name="CLIENT_PATH" value="" />
@@ -592,7 +695,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/availity/axi/careprofile/pdf/data/AcpPdfDisplayData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="2" selection-start="300" selection-end="1293" vertical-scroll-proportion="0.20767888">
+        <state line="27" column="2" selection-start="300" selection-end="1293" vertical-scroll-proportion="0.20804195">
           <folding />
         </state>
       </provider>
